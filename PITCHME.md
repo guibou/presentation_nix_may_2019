@@ -1,4 +1,4 @@
-# Nix ou comment j'ai appris à ne plus m'en faire et à aimer les builds reproductibles
+# Nix OCJAANPMFEAOL build reproductibles
 
 guillaum.bouchard@gmail.com
 
@@ -15,7 +15,11 @@ guillaum.bouchard@gmail.com
   - Plusieurs interpreteurs à distribuer
   - Plusieurs systèmes d'exploitation (Linux / Mac OSX / Windows)
   - Plusieurs versions à maintenir en simultanée
-  
+
+---
+
+## `whoami`
+ 
 - Depuis juin 2018 : tweag.io / kittyhawk
 
   - Industrie de l'aéronautique
@@ -29,22 +33,14 @@ guillaum.bouchard@gmail.com
 ---
 ## Build logiciel
 
-- Des entrées
-- Des sorties
-- Un environment
+- Entrées / Sorties / Environment
 
-- Logiciels
-- Experiences
-- Publications (Latex)
-- Site web
-- Configuration d'ordinateur
-- ...
+- Logiciels / Experiences / Publications / ...
 
 ---
 ## Reproducibilité
 
-- Toujours obtenir la même chose
-- Facilement
+- Toujours obtenir la même chose / Facilement
 
 - Pourquoi ?
 
@@ -75,6 +71,10 @@ To build this project, please run `nix build`
   - Fournie les dépendances
   - Sandboxé
   - Sous-traite à vos outils (make, cmake, bazel, shake, scons, ...)
+
+---
+
+# Nix : détails
 
 - Environnements
 
