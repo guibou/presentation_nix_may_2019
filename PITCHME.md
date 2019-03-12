@@ -74,7 +74,7 @@ To build this project, please run `nix build`
 
 ---
 
-# Nix : détails
+## Nix : détails
 
 - Environnements
 
@@ -279,3 +279,10 @@ dockerTools.buildImage {
 
 - Configuration de l'utilisateur dans un fichier
 - Montrer un peu ma config
+
+---
+
+## Questions
+
+
+Live coding !
